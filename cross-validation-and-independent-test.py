@@ -1,6 +1,5 @@
 import numpy as np
 from tensorflow.keras import models,layers,optimizers,regularizers
-from sklearn.metrics import roc_curve,auc
 import pandas as pd
 
 aminoacids='ARNDCQEGHILKMFPSTWYV-'
