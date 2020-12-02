@@ -10,3 +10,5 @@ python cross-validation-and-independent-test.py
 After running the above command, the following command plots the roc curves:
 
 python plot-roc.py 
+
+The file pred_human_sites is the predicted human ubiquitination sites with high confidence.
